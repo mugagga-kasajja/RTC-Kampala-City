@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 	Header Styles 
 --------------------------------------------------------*/
 .top-header {
-  background: gray;
+  background:rgb(182, 12, 182);
   color: white;
   padding: 10px 0;
 }
@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .top-header .right-header ul.social-icons li a:hover {
   background-color: white;
-  color: gray;
+  color:rgb(182, 12, 182);
 }
 
 .main-header {
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
 }
 .main-header .menu ul li a.current {
-  background: gray;
+  background:rgb(182, 12, 182);
   color: white;
 }
 
@@ -194,14 +194,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .responsive-menu .toggle-menu {
   font-size: 24px;
-  color: gray;
+  color:rgb(182, 12, 182);
 }
 .responsive-menu .menu {
   display: none;
   position: absolute;
   top: 52px;
   width: 100%;
-  background-color: gray;
+  background-color:rgb(182, 12, 182);
 }
 .responsive-menu .menu ul li {
   display: block;
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 70px;
   height: 4px;
-  background: gray;
+  background:rgb(182, 12, 182);
   margin: 0 auto;
 }
 
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mainBtn {
-  background-color: gray;
+  background-color:rgb(182, 12, 182);
   color: white;
   display: inline-block;
   text-transform: uppercase;
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
 #services .service-item .service-header i {
-  color: gray;
+  color:rgb(182, 12, 182);
   font-size: 24px;
   float: left;
   margin-right: 25px;
@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-box-shadow: none;
   box-shadow: none;
   line-height: 30px;
-  background: gray;
+  background:rgb(182, 12, 182);
   text-transform: uppercase;
 }
 #about .our-team {
@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 #about .our-team .team-member .inner-content h5 {
   font-size: 18px;
   font-weight: 600;
-  color: gray;
+  color:rgb(182, 12, 182);
   margin-bottom: 10px;
 }
 #about .our-team .team-member .inner-content span {
@@ -481,7 +481,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
 }
 #contact .contact-info span i {
-  color: gray;
+  color:rgb(182, 12, 182);
   font-size: 16px;
   margin-right: 12px;
 }
@@ -539,7 +539,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------*/
 .site-footer {
   margin-top: 100px;
-  background-color: gray;
+  background-color:rgb(182, 12, 182);
   color: white;
   padding: 25px 0;
 }
