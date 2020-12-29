@@ -1,0 +1,27 @@
+{
+  "name": "rtc-kampala-city",
+  "version": "1.0.0",
+  "description": "Web Application for a non-profitable organisation aimed at changing the world greatly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugagga-kasajja/RTC-Kampala-City.git"
+  },
+  "author": "Yusuf Mugagga Kasajja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugagga-kasajja/RTC-Kampala-City/issues"
+  },
+  "homepage": "https://github.com/mugagga-kasajja/RTC-Kampala-City#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7",
+    "pug": "^3.0.0"
+  }
+}
