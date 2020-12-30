@@ -10,7 +10,7 @@ const chalk = require('chalk')
 // const passport = require('passport');
 // const passportLocalMongoose = require('passport-local-mongoose');
 // const connectEnsureLogin = require('connect-ensure-login');
-// const loginRoutes = require('./routes/loginRoutes')
+const indexRouter = require('./routes/indexRouter')
 // const Employee = require('./models/supervisorRegModel')
 
 
@@ -41,7 +41,7 @@ app.use(express.static('public'))
 // passport.serializeUser(Employee.serializeUser());
 // passport.deserializeUser(Employee.deserializeUser());
 
-//app.use('/', loginRoutes)
+app.use('/', indexRouter)
 
 app.get('*',(req,res)=>{
     res.send('Error')
